@@ -1,0 +1,25 @@
+{
+  "name": "react-yet-another-carousel",
+  "version": "0.0.1",
+  "description": "React-based Carousel component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sairion/react-yet-another-carousel.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Jaeho Lee <sairion@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sairion/react-yet-another-carousel/issues"
+  },
+  "homepage": "https://github.com/sairion/react-yet-another-carousel",
+  "dependencies": {
+    "react": "^0.12.2"
+  }
+}
